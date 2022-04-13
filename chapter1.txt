@@ -1,1 +1,3 @@
 I am Raveen. I am a student
+
+This is a new line in chapter1.txt

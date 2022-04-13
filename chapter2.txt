@@ -1,1 +1,3 @@
 This is chapter2.txt
+
+This is a new line in chapter2.txt
